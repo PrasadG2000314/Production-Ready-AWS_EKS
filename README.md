@@ -332,6 +332,3 @@ This project is open-source and released under the **[MIT License](LICENSE)**.
 <p align="center">
   <b>Built with ❤️ for DevOps & GitOps Engineers</b>
 </p>
-#   - P r o d u c t i o n - R e a d y - A W S - E K S - G i t O p s  
- #   - P r o d u c t i o n - R e a d y - A W S - E K S - G i t O p s  
- 
